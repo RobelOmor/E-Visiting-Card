@@ -1,0 +1,6 @@
+{
+  "name": "DigiCard Android - E-Visiting Card Studio",
+  "description": "Smart Android digital business card app with 3D flippable visiting cards, NFC tap-to-share, QR codes, instant vCard contact export, and bilingual English & Bengali support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
